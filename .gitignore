@@ -1,2 +1,4 @@
 # environment
 /dq-env/
+__pycache__/
+/papers/
