@@ -1,4 +1,5 @@
 # environment
+/*.egg-info/
 /dq-env/
 __pycache__/
 /papers/
